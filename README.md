@@ -1,14 +1,14 @@
 ## Install Jest
 *   $npm install --save-dev jest
 
-## Instalar Babel
+## Install Babel
 *   $npm install --save-dev babel-jest @babel/core @babel/preset-env
 
-## Agregar a scripts en package.json
+## Add to scripts in package.json
 *   "test": "jest"
 
-## Hacer pruebas de todos los archivos de la carpeta __test__
+## TO do test of all files from folder __test__
 *   $npm test
 
-## Hacer pruebas de un archivo en particular
+## To do test in every file
 *   $npm test archivo.test.js
