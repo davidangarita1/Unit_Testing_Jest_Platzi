@@ -7,7 +7,7 @@
 ## Add to scripts in package.json
 *   "test": "jest"
 
-## TO do test of all files from folder __test__
+## To do test of all files from folder __test__
 *   $npm test
 
 ## To do test in every file

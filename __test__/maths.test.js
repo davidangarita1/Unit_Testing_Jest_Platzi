@@ -1,4 +1,4 @@
-import { sumar, multiplicar, restar, dividir } from '../maths.js';
+import { sumar, multiplicar, restar, dividir } from '../maths';
 
 describe('Calculos matematicos', () => {
     test('Prueba de sumas', () => {
