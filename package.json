@@ -1,0 +1,22 @@
+{
+  "name": "platzitest",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "David Angarita <david@dangwebs.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.4",
+    "babel-jest": "^27.0.2",
+    "jest": "^27.0.4"
+  }
+}
